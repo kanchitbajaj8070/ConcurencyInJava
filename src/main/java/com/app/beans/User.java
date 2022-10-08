@@ -32,7 +32,6 @@ public class User {
 
     public User() {
     }
-
     public User(int id, String email, String name) {
         this.id = id;
         this.email = email;
